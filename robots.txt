@@ -1,0 +1,11 @@
+User-agent: Googlebot
+Disallow: /
+
+User-agent: Googlebot
+User-agent: AdsBot-Google
+Disallow: /
+ 
+User-agent: * 
+Disallow: /
+
+Sitemap: https://praba-resume3.web.app/sitemap.xml
